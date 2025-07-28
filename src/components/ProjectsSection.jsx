@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/myportfolio.png",
     tags: ["React", "TailwindCSS", "Javascript"],
     demoUrl: "https://myportfolio-shubham750520s-projects.vercel.app/#projects",
-    githubUrl: "https://github.com/Shubham750520",
+    githubUrl: "https://github.com/Shubham750520/myportfolio",
   },
 ];
 
