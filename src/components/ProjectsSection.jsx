@@ -7,7 +7,7 @@ const projects = [
     description: "A beautiful landing page app using React and Tailwind.",
     image: "/projects/myportfolio.png",
     tags: ["React", "TailwindCSS", "Javascript"],
-    demoUrl: "https://myportfolio-shubham750520s-projects.vercel.app/#projects",
+    demoUrl: "https://myportfolio-nu-inky.vercel.app/",
     githubUrl: "https://github.com/Shubham750520/myportfolio",
   },
 ];
